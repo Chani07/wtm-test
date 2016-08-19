@@ -1,6 +1,14 @@
-# wtm-test
-test
+# wtm-test Header 1
 
-Hello world!
+**Bold**
 
-More text added
+*Italics*
+
+```java
+int a = 2;
+```
+[Text That Links](http://google.com)
+
+## Header 2
+
+### Header 3
